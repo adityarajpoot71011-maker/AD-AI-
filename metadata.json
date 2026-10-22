@@ -1,0 +1,6 @@
+{
+  "name": "AD AI",
+  "description": "Smart, modern AI assistant in Hindi and English with voice input, text-to-speech, vision analysis, search grounding, and chat history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
